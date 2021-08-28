@@ -1,0 +1,3 @@
+ //Letra a) O programa certo é o A 
+    //Letra b) colocando o "while" antes do println.
+         
